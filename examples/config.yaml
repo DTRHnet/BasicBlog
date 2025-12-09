@@ -1,0 +1,6 @@
+title: My Awesome Blog
+theme: dark
+output_dir: ./build
+multi_page: false
+author: John Doe
+description: A beautiful blog showcasing the power of BasicBlog with dynamic content and stunning design

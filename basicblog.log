@@ -1,0 +1,21 @@
+{"level":"info","message":"Starting BasicBlog generation...","service":"basicblog","timestamp":"2025-12-09 05:02:07"}
+{"level":"info","message":"Configuration directory: ./examples","service":"basicblog","timestamp":"2025-12-09 05:02:07"}
+{"level":"info","message":"Parsing configuration file: examples\\config.yaml","service":"basicblog","timestamp":"2025-12-09 05:02:07"}
+{"config":{"author":"John Doe","description":"A beautiful blog showcasing the power of BasicBlog with dynamic content and stunning design","multi_page":false,"output_dir":"./build","theme":"dark","title":"My Awesome Blog"},"level":"info","message":"Configuration parsed successfully","service":"basicblog","timestamp":"2025-12-09 05:02:07"}
+{"level":"info","message":"Parsing menu file: examples\\menu.json","service":"basicblog","timestamp":"2025-12-09 05:02:07"}
+{"level":"info","message":"Menu parsed successfully with 4 items","service":"basicblog","timestamp":"2025-12-09 05:02:07"}
+{"level":"info","message":"Parsing panes configuration file: examples\\panes.cfg","service":"basicblog","timestamp":"2025-12-09 05:02:07"}
+{"level":"info","message":"Panes parsed successfully: 3 panes","panes":[{"name":"sidebar","width":25},{"name":"main","width":50},{"name":"footer","width":25}],"service":"basicblog","timestamp":"2025-12-09 05:02:07"}
+{"level":"info","message":"Parsing entries file: examples\\entries.json","service":"basicblog","timestamp":"2025-12-09 05:02:07"}
+{"level":"info","message":"Entries parsed successfully with 7 total entries across 3 panes","service":"basicblog","timestamp":"2025-12-09 05:02:07"}
+{"level":"info","message":"Output directory: C:\\Users\\kbsbr\\Desktop\\BasicBlog\\build","service":"basicblog","timestamp":"2025-12-09 05:02:07"}
+{"level":"info","message":"Created output directory: C:\\Users\\kbsbr\\Desktop\\BasicBlog\\build","service":"basicblog","timestamp":"2025-12-09 05:02:07"}
+{"level":"info","message":"Generated blog-data.js","service":"basicblog","timestamp":"2025-12-09 05:02:07"}
+{"level":"info","message":"Updated index.html with metadata","service":"basicblog","timestamp":"2025-12-09 05:02:07"}
+{"level":"info","message":"Copied vite.config.js","service":"basicblog","timestamp":"2025-12-09 05:02:07"}
+{"level":"info","message":"Copied package.json","service":"basicblog","timestamp":"2025-12-09 05:02:07"}
+{"level":"info","message":"Copied tailwind.config.js","service":"basicblog","timestamp":"2025-12-09 05:02:07"}
+{"level":"info","message":"Copied postcss.config.js","service":"basicblog","timestamp":"2025-12-09 05:02:07"}
+{"level":"info","message":"Copied src directory","service":"basicblog","timestamp":"2025-12-09 05:02:07"}
+{"level":"info","message":"Copied public directory","service":"basicblog","timestamp":"2025-12-09 05:02:07"}
+{"level":"info","message":"Blog generation completed successfully","service":"basicblog","timestamp":"2025-12-09 05:02:07"}
